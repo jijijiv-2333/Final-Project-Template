@@ -1,6 +1,6 @@
-## Project Title
+## The exactl El Niño influence on the production rate in the west coast of south America
 
-Firstname Lastname  
+Yiyang Liu
 OCEAN 215 Final Project  
 Autumn 2024  
 
